@@ -47,7 +47,7 @@ func(obj_mango)
 ```
 
 ## Output
-![Uploading md65.png…]()
+<img width="614" height="332" alt="md65" src="https://github.com/user-attachments/assets/85d8f943-8152-420c-bb46-687aa8ff232c" />
 
 ## Result
 Thus the python program was executed successfully.
