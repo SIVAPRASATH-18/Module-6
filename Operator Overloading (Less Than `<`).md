@@ -42,7 +42,7 @@ else:
 
 ```
 ## Output
-![Uploading md64.png…]()
+<img width="815" height="211" alt="md64" src="https://github.com/user-attachments/assets/6b1e8cf2-2f2d-4ad7-b7f8-aa117fcd4243" />
 
 ## Result
 Thus the python program was executed successfully.
